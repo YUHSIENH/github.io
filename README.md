@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![photo1](photos/IMG_oo87.JPG)
 ```
-[photo1](photos/IMG_0087.JPG)
+![photo1](photos/IMG_0087.JPG)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
