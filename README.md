@@ -6,11 +6,11 @@ Let's go!
 
 ![photo1](photos/IMG_0087.JPG)
 
-![photo1](photos/IMG_3658.JPG)
+![photo1](photos/IMG_3658.jpg)
 
-![photo1](photos/IMG_7599.JPG)
+![photo1](photos/IMG_7599.jpg)
 
-![photo1](photos/IMG_7727.JPG)
+![photo1](photos/IMG_7727.jpg)
 
 ![photo1](photos/IMG_9334.JPG)
 
